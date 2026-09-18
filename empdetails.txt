@@ -1,0 +1,3 @@
+empid:1
+empname: shubh
+empsalary: 50000
